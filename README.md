@@ -2,6 +2,12 @@
 
 ASP.NET Core 10 API for a menu and ordering application, using SQL Server, Entity Framework Core, Redis, JWT authentication, and Stripe payments.
 
+## Hosted API
+
+[Open Swagger UI](https://restaurantmenuapi.runasp.net/swagger/index.html)
+
+Base URL: https://restaurantmenuapi.runasp.net
+
 ## Structure
 
 - `Core/Menu.Domain`: entities and repository contracts.
