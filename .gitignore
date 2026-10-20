@@ -1,0 +1,33 @@
+# Build and IDE output
+**/[Bb]in/
+**/[Oo]bj/
+.vs/
+.idea/
+.vscode/
+artifacts/
+output/
+tmp/
+TestResults/
+*.user
+*.suo
+*.log
+*.tmp
+.codex-temp-*
+
+# Local credentials and deployment settings
+.env
+.env.*
+!.env.example
+**/appsettings.Local.json
+**/appsettings.Production.json
+**/Properties/PublishProfiles/
+*.pfx
+*.p12
+*.pem
+*.key
+*.publishsettings
+
+# Local databases
+*.mdf
+*.ldf
+*.bak

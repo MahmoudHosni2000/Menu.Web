@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/Menu.Domain/Menu.Domain.csproj" />
+    <Project Path="Menu.Services.Abstraction/Menu.Services.Abstraction.csproj" />
+    <Project Path="Menu.Services/Menu.Services.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/Menu.Persistence/Menu.Persistence.csproj" />
+    <Project Path="Menu.Presentation/Menu.Presentation.csproj" />
+  </Folder>
+  <Project Path="Menu.Shared/Menu.Shared.csproj" />
+  <Project Path="Menu.Web/Menu.Web.csproj" />
+</Solution>
